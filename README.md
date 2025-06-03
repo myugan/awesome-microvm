@@ -35,6 +35,7 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 - [Thoughts on creating VMMs from Docker images](https://gruchalski.com/posts/2021-03-03-thoughts-on-creating-vmms-from-docker-images/)
 - [Firecracker VMM with additional disks](https://gruchalski.com/posts/2021-02-14-firecracker-vmm-with-additional-disks/)
 - [Live resize Firecracker VMM drive](https://gruchalski.com/posts/2021-02-16-live-resize-firecracker-vmm-drive/)
+- [Build a Firecracker microVM from a container image (Alex Ellis)](https://github.com/alexellis/firecracker-init-lab)
 
 ### Advanced Usage
 
@@ -52,7 +53,7 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 
 - [A cracking time: Exploring Firecracker & MicroVMs](https://www.youtube.com/watch?v=CYCsa5e2vqg)
 - [Lightning Talk: What Are MicroVMs? And Why Should I Care?](https://www.youtube.com/watch?v=4d0NIfuFLXc&t=698s)
-- [Face off: VMs vs. Containers vs Firecracker](https://www.youtube.com/watch?v=pTQ_jVYhAoc&t=403s)
+- [Face off: VMs vs. Containers vs Firecracker](https://www.youtube.com/watch?v=pTQ_jVYhAoc)
 - [How MicroVMs can take your Kubernetes home lab to the next lvl](https://www.youtube.com/watch?v=4d0NIfuFLXc&t=698s)
 - [Deep Dive into firecracker-containerd](https://www.youtube.com/watch?v=0wEiizErKZw)
 - [Reusing bazel's analysis cache by cloning micro-VMs](https://www.youtube.com/watch?v=k30xZfiRZYo)
@@ -81,10 +82,11 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 
 ## Who Are Using MicroVMs?
 
-- [Fly.io](https://fly.io)
+- [actuated](https://actuated.com)
+- [architect](https://architect.run/)
 - [CodeSandbox](https://codesandbox.io)
 - [E2B](https://e2b.dev)
-- [architect](https://architect.run/)
+- [Fly.io](https://fly.io)
 - [iximiuz Labs](https://labs.iximiuz.com/)
 
 ## Use Cases
