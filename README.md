@@ -61,9 +61,10 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 ## Projects
 
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - **firecracker-containerd** enables containerd to manage containers as Firecracker microVMs.
+- [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - Enables containerd to manage containers as Firecracker microVMs.
 - [firecracker-task-driver](https://github.com/cneira/firecracker-task-driver) - Nomad task driver that uses firecracker to start micro-vms.
 - [firectl](https://github.com/firecracker-microvm/firectl) - A command-line tool to run Firecracker microVMs.
+- [buildfs](https://github.com/rust-firecracker/buildfs) - A tool for creating a VM root filesystem image from a reproducible TOML build script easily.
 - [Flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads.
 - [krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images.
