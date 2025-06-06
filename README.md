@@ -56,6 +56,7 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 - [Face off: VMs vs. Containers vs Firecracker](https://www.youtube.com/watch?v=pTQ_jVYhAoc)
 - [How MicroVMs can take your Kubernetes home lab to the next lvl](https://www.youtube.com/watch?v=4d0NIfuFLXc&t=698s)
 - [Deep Dive into firecracker-containerd](https://www.youtube.com/watch?v=0wEiizErKZw)
+- [Firecracker, should it work only with a single runtime?](https://youtu.be/n0xtvAMdY1w?si=aNy8uIhY4-b-bPnf)
 - [Reusing bazel's analysis cache by cloning micro-VMs](https://www.youtube.com/watch?v=k30xZfiRZYo)
 - [Create A Custom Linux Init in Python](https://fosdem.org/2025/schedule/event/fosdem-2025-5260-create-a-custom-linux-init-in-python/)
 
