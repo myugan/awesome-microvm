@@ -41,6 +41,7 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 
 - [Automation to run VMs based on vanilla Cloud Images on Firecracker](https://ongres.com/blog/automation-to-run-vms-based-on-vanilla-cloud-images-on-firecracker/)
 - [Scaling Firecracker: Using OverlayFS to Save Disk Space](https://e2b.dev/blog/scaling-firecracker-using-overlayfs-to-save-disk-space)
+- [Space Efficient Filesystems for Firecracker](https://parandrus.dev/devicemapper/)
 - [Cloning microVMs by sharing memory through userfaultfd](https://codesandbox.io/blog/cloning-microvms-using-userfaultfd)
 - [Running Linux microVMs on macOS (M1/M2)](https://slp.prose.sh/running-microvms-on-m1)
 - [How to run Firecracker without KVM on cloud VMs](https://blog.alexellis.io/how-to-run-firecracker-without-kvm-on-regular-cloud-vms/)
