@@ -63,6 +63,7 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 
 ## Projects
 
+- [rust-vmm](https://github.com/rust-vmm) - Shared Rust crates powering Firecracker and other VMMs.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - Enables containerd to manage containers as Firecracker microVMs.
 - [firecracker-task-driver](https://github.com/cneira/firecracker-task-driver) - Nomad task driver that uses firecracker to start micro-vms.
