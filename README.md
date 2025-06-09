@@ -19,6 +19,7 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 
 - [Microarchitectural Security of AWS Firecracker VMM for Serverless Cloud Platforms](https://arxiv.org/pdf/2311.15999)
 - [Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding](https://www.usenix.org/system/files/usenixsecurity23-xiao-jietao.pdf)
+- [Blending Containers and Virtual Machines: A Study of Firecracker and gVisor](https://scail.cs.wisc.edu/papers/vee20-isolation.pdf)
 
 ## Blogs
 
