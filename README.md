@@ -92,6 +92,7 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 - [E2B](https://e2b.dev)
 - [Fly.io](https://fly.io)
 - [iximiuz Labs](https://labs.iximiuz.com/)
+- [BuildBuddy](https://www.buildbuddy.io/)
 
 ## Use Cases
 
