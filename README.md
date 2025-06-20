@@ -77,6 +77,7 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 - [Fireactions](https://github.com/hostinger/fireactions) - BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fast and secure Firecracker based virtual machines.
 - [KubeFire](https://github.com/innobead/kubefire) - Creates and manages Kubernetes Clusters using Firecracker microVMs.
 - [Hyperlight](https://github.com/hyperlight-dev/hyperlight) - A lightweight Virtual Machine Manager (VMM) designed to be embedded within applications.
+- [firecracker-in-docker](https://github.com/fadams/firecracker-in-docker) - A proof of concept project to run Firecracker MicroVMs inside unprivileged Docker containers.
 
 ## SDK
 
