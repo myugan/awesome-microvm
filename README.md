@@ -94,10 +94,12 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 - [Fly.io](https://fly.io)
 - [iximiuz Labs](https://labs.iximiuz.com/)
 - [BuildBuddy](https://www.buildbuddy.io/)
+- [Vercel](https://vercel.com/)
 
 ## Use Cases
 
 - [Blazing fast CI with MicroVMs](https://blog.alexellis.io/blazing-fast-ci-with-microvms/)
+- [A deep dive into Hive: Vercel’s builds infrastructure](https://vercel.com/blog/a-deep-dive-into-hive-vercels-builds-infrastructure)
 - [Using Firecracker and Go to run short-lived, untrusted code execution jobs](https://stanislas.blog/2021/08/firecracker/)
 - [Building a Firecracker-Powered Course Platform To Learn Docker and Kubernetes](https://iximiuz.com/en/posts/iximiuz-labs-story/)
 - [Running containers on Firecracker microVMs using kata on kubernetes](https://blog.cloudkernels.net/posts/kata-fc-k3s-k8s/)
