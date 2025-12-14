@@ -95,6 +95,7 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 - [iximiuz Labs](https://labs.iximiuz.com/)
 - [BuildBuddy](https://www.buildbuddy.io/)
 - [Vercel](https://vercel.com/)
+- [YepCode](https://yepcode.io/)
 
 ## Use Cases
 
