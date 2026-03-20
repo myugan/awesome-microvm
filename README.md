@@ -84,6 +84,7 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 - [firecracker-go-sdk](https://github.com/firecracker-microvm/firecracker-go-sdk) - An SDK in Go for the Firecracker microVM API.
 - [firecracker-rs-sdk](https://crates.io/crates/firecracker-rs-sdk) - The Firecracker Rust SDK. A pure Rust crate for interacting with Firecracker.
 - [firecracker-python](https://github.com/myugan/firecracker-python/) - An SDK in Python for the Firecracker microVM API.
+- [go-microvm](https://github.com/stacklok/go-microvm) - Go framework for running OCI images as microVMs via libkrun, with embedded runtime, rootfs management, and guest networking.
 
 ## Who Are Using MicroVMs?
 
@@ -100,7 +101,7 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 ## Use Cases
 
 - [Blazing fast CI with MicroVMs](https://blog.alexellis.io/blazing-fast-ci-with-microvms/)
-- [A deep dive into Hive: Vercel’s builds infrastructure](https://vercel.com/blog/a-deep-dive-into-hive-vercels-builds-infrastructure)
+- [A deep dive into Hive: Vercel's builds infrastructure](https://vercel.com/blog/a-deep-dive-into-hive-vercels-builds-infrastructure)
 - [Using Firecracker and Go to run short-lived, untrusted code execution jobs](https://stanislas.blog/2021/08/firecracker/)
 - [Building a Firecracker-Powered Course Platform To Learn Docker and Kubernetes](https://iximiuz.com/en/posts/iximiuz-labs-story/)
 - [Running containers on Firecracker microVMs using kata on kubernetes](https://blog.cloudkernels.net/posts/kata-fc-k3s-k8s/)
