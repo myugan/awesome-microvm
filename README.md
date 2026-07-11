@@ -73,6 +73,7 @@ List of awesome resources about microVM included blogs, videos, projects and etc
 - [Flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads.
 - [krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images.
+- [smolvm](https://github.com/smol-machines/smolvm) - MicroVM manager on libkrun that runs OCI images as VMs (Linux KVM, macOS HVF) and copy-on-write forks a running VM in ~150ms.
 - [vAccel](https://vaccel.org/) - Give your serverless deployments the power of hardware accelerators with vAccel
 - [Fireactions](https://github.com/hostinger/fireactions) - BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fast and secure Firecracker based virtual machines.
 - [KubeFire](https://github.com/innobead/kubefire) - Creates and manages Kubernetes Clusters using Firecracker microVMs.
